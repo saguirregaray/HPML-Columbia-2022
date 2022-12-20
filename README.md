@@ -14,7 +14,7 @@ This project explores the inference drift of a hardware aware trained Squeezenet
 
 ## Results
 
-References:
+## References
 
 - IBM Analog Hardware Acceleration Kit: https://github.com/IBM/aihwkit
 - Analog AI: https://researcher.watson.ibm.com/researcher/view_group.php?id=7716 
