@@ -16,8 +16,8 @@ This project explores the inference drift of a hardware aware trained Squeezenet
 
 References:
 
-IBM Analog Hardware Acceleration Kit: https://github.com/IBM/aihwkit
-Analog AI: https://researcher.watson.ibm.com/researcher/view_group.php?id=7716 
-Squeezenet: https://arxiv.org/abs/1602.07360
-Visual Wake Words: https://arxiv.org/abs/1906.05721
-RPU configurations: https://aihwkit.readthedocs.io/en/latest/using_simulator.html#rpu-configurations
+- IBM Analog Hardware Acceleration Kit: https://github.com/IBM/aihwkit
+- Analog AI: https://researcher.watson.ibm.com/researcher/view_group.php?id=7716 
+- Squeezenet: https://arxiv.org/abs/1602.07360
+- Visual Wake Words: https://arxiv.org/abs/1906.05721
+- RPU configurations: https://aihwkit.readthedocs.io/en/latest/using_simulator.html#rpu-configurations
