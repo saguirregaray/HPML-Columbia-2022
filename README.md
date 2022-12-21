@@ -45,6 +45,11 @@ python setup.py build_ext -DCMAKE_BUILD_TYPE=Debug -DCMAKE_EXPORT_COMPILE_COMMAN
 
 ## Results
 
+<img width="890" alt="Screen Shot 2022-12-21 at 11 29 17" src="https://user-images.githubusercontent.com/49325689/208955488-2ecd3ccf-22b1-42c3-aeec-9d0ffbb9ea22.png">
+
+<img width="888" alt="Screen Shot 2022-12-21 at 11 29 34" src="https://user-images.githubusercontent.com/49325689/208955543-91ab6528-44b2-478c-84c3-ce2795c8a906.png">
+
+
 ## References
 
 - IBM Analog Hardware Acceleration Kit: https://github.com/IBM/aihwkit
